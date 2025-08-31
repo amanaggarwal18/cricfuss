@@ -13,7 +13,7 @@ Powered by SQLite as the backend database, this app provides player profiles, ba
 
 🕹️ Sidebar filters to select players dynamically.
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 Python – Frontend web app framework
 
 Rest API - To fetch data from cricapi
