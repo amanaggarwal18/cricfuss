@@ -1,10 +1,8 @@
-🏏 Cricket Player Stats Explorer
-
+# 🏏 Cricket Player Stats Explorer
 An interactive Streamlit web app that lets you explore cricket player statistics across Tests, ODIs, T20Is, and IPL.
 Powered by SQLite as the backend database, this app provides player profiles, batting & bowling stats, and interactive visualizations.
 
-✨ Features
-
+## 🌟 Features
 📌 Player Profile: Image, DOB, Role, Batting & Bowling style, Country.
 
 📊 Batting Stats: Runs, Average, Strike Rate, Highest Score across formats.
@@ -15,8 +13,7 @@ Powered by SQLite as the backend database, this app provides player profiles, ba
 
 🕹️ Sidebar filters to select players dynamically.
 
-🛠️ Tech Stack
-
+### ⚡ Tech Stack
 Python – Frontend web app framework
 
 Rest API - To fetch data from cricapi
